@@ -1,0 +1,56 @@
+body{
+    font-family: 'Cabin', sans-serif;
+}
+.logo{
+    font-family: 'Lobster', cursive;
+}
+footer .logo{
+    padding-top: 38px;
+    padding-bottom: 38px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+
+.hero{
+    display: flex;
+    justify-content: space-evenly;
+}
+.hero img{
+    height: 300px;
+    width: 400px;
+}
+hr{
+    height: 50px;
+}
+
+  .newsletter{
+      background-color: #DC3545;
+    padding: 150px;
+}
+.card-deck{
+    padding-bottom: 125px;
+}
+footer{
+    background-color: #373A3C;
+    text-align: center;
+    color: white;
+}
+.tres{
+    display: flex;
+    justify-content: center;
+}
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    color:black;
+}
+.carousel-indicators {
+   top: 50px;
+}
